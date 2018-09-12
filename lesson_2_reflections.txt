@@ -11,3 +11,6 @@ staging area is connected to git file where as the working directory is isolated
 
 How can you use the staging area to make sure you have one commit per logical change?
 sure I still figurein stuff out
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+working on a new feature, working a fix prettry much when U dont want to pollute the master branch. 
