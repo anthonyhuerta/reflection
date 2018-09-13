@@ -19,3 +19,7 @@ working on a new feature, working a fix prettry much when U dont want to pollute
 How do the diagrams help you visualize the branch structure?
 
 They help U see what is going on
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+resolvieng conflicts 
