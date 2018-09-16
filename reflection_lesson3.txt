@@ -1,1 +1,8 @@
 This is a new refection file
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+ fork take a repo and makes it your 
+ clone gets THAT repo and makes it local
+ Branch starts a new history of commits
+ 
