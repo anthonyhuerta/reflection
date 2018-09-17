@@ -23,3 +23,9 @@ They help U see what is going on
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 resolvieng conflicts 
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+u can wrok off line.
+If new commits are pushed your branch will not be that out of sync. 
